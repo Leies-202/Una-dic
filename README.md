@@ -27,6 +27,8 @@ Una-IME辞書。
 
 [リリースノート](https://github.com/eizi2002/Una-dic/releases)を開き、[una-ime.txt]をクリックしてダウンロードしてください。（※ソース直ダウンロードでもまったく問題ないです。）
 
+または[これ](https://raw.githubusercontent.com/Leies-202/Una-dic/master/una-ime.txt)開いて右クリ保存。
+
 バージョン(X.X.X)表記-大幅追加.数個追加.readme等の修正
 
 ## なぜここに
